@@ -7,3 +7,4 @@ for i in range(1, num + 1):
 
 print("Factorial is:", factorial)
 print("Number is:", num)
+print("Timmu")
